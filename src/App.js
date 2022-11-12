@@ -80,6 +80,10 @@ export default function App() {
           <div className="'weather-forecast" id="forecast"></div>
         </div>
       </div>
+      <div className="gitlink">
+        <a href="https://github.com/AnastasiiaMaliuha">Open-source code </a>
+        by Anastasiia Maliuha
+      </div>
     </div>
   );
 }
