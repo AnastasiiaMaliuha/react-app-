@@ -62,7 +62,7 @@ export default function App() {
               <div className="d-flex wheather-temperature">
                 <span className="temperature">{weatherData.temperature}</span>
                 <span className="units">
-                  <a href="#" id="celsius-link">
+                  <a href="/" id="celsius-link">
                     C°
                   </a>
                 </span>
